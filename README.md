@@ -1,6 +1,6 @@
 # 🧑‍💻 Александр Филюшин
 
-**Frontend / Fullstack Developer**  
+**Fullstack Developer**  
 Москва, Россия 🇷🇺  
 📧 aleksandrfilyushin@gmail.com | 📱 @squize31 | 🌐 [Leetcode](https://leetcode.com/squize)
 
