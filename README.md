@@ -59,6 +59,6 @@ _2023–2027_
 ## 📫 Контакты
 
 - Email: [aleksandrfilyushin@gmail.com](mailto:aleksandrfilyushin@gmail.com)  
-- Telegram: [@squize31](https://t.me/squize31)  
+- Telegram: [@traden0de](https://t.me/traden0de)  
 - GitHub: [github.com/squize31](https://github.com/squize31)  
 - Leetcode: [squize](https://leetcode.com/squize)
