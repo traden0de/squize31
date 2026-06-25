@@ -49,13 +49,6 @@ _2023–2027_
 
 ---
 
-## 📈 GitHub статистика
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=squize31&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squize31&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Контакты
 
 - Email: [aleksandrfilyushin@gmail.com](mailto:aleksandrfilyushin@gmail.com)  
